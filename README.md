@@ -26,7 +26,7 @@ HTTP request
 
 
 
-Kết quả 10 người truy cập cùng 1 lúc 
+Kết quả 100 người truy cập cùng 1 lúc 
 ![100ng](https://github.com/nhien261203/bt/assets/167493331/15a5654a-965c-4143-bd60-3e9b669830e4)
 
 

@@ -14,7 +14,9 @@ Dựa trên kết quả phân tích, đưa ra kết luận về hiệu năng c�
 Thread Group:
 
 Số lượng thread: 10
+
 Thời gian chạy: 11 giây
+
 Ramp-up period: 10 giây
 ![thread](https://github.com/nhien261203/bt/assets/167493331/c05ffffa-6c80-4e3e-98fe-d0f6243efdbb)
 
@@ -25,3 +27,6 @@ HTTP request
 Kết quả 10 người truy cập cùng 1 lúc 
 ![truycap](https://github.com/nhien261203/bt/assets/167493331/faea7fb3-4a43-42a8-af60-a8736de36223)
 
+Phân tích: 
+
+tỷ lệ thành công cao: 930/1056 

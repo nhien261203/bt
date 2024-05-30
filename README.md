@@ -1,7 +1,7 @@
 # Kiểm thử hiệu năng web với jmeter
 ## Mục tiêu
 
-Sử dụng jMeter để tạo một kịch bản kiểm tra mô phỏng người dùng truy cập trang web https://www.facebook.com/?locale=vi_VN
+Sử dụng jMeter để tạo một kịch bản kiểm tra mô phỏng người dùng truy cập trang web https://github.com/
 
 Chạy kịch bản kiểm tra và ghi lại kết quả.
 
@@ -13,20 +13,23 @@ Dựa trên kết quả phân tích, đưa ra kết luận về hiệu năng c�
 
 Thread Group:
 
-Số lượng thread: 10
+Số lượng thread: 100
 
-Thời gian chạy: 11 giây
+Thời gian chạy: 100 giay 
 
 Ramp-up period: 10 giây
-![thread](https://github.com/nhien261203/bt/assets/167493331/c05ffffa-6c80-4e3e-98fe-d0f6243efdbb)
+![threadgit](https://github.com/nhien261203/bt/assets/167493331/af68fa6c-770b-4ad7-a8d4-190ad91455db)
+
 
 HTTP request
-![http](https://github.com/nhien261203/bt/assets/167493331/7b86ab5e-70df-444f-8409-58bd49fcfd71)
+![httpgit](https://github.com/nhien261203/bt/assets/167493331/c25c6edb-dc83-4800-95a6-a8664b1b43ab)
+
 
 
 Kết quả 10 người truy cập cùng 1 lúc 
-![truycap](https://github.com/nhien261203/bt/assets/167493331/faea7fb3-4a43-42a8-af60-a8736de36223)
+![100ng](https://github.com/nhien261203/bt/assets/167493331/15a5654a-965c-4143-bd60-3e9b669830e4)
+
 
 Phân tích: 
 
-tỷ lệ thành công cao: 930/1056 
+tỷ lệ thành công cao: 503/510 
